@@ -1,5 +1,7 @@
 README:
 
+All Java source code can be found in the src/ngrams folder.
+
 There is a Perl script, puncstrip.pl, that is provided as part of the assignment whose job is to remove all punctuation. You do not need to run this script, but it is included as additional information.
 
 There are some text files provided for the program to "learn" and predict trigrams; note that they have no punctuation. To specify which files to read in, please add/change to lines 12-14 in the drivers.
